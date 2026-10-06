@@ -1,12 +1,7 @@
-# Reading Adventure V1
-Mobile-first adaptive reading intervention prototype for a Grade 4 learner.
+# Reading Adventure Family V3
 
-V1 includes:
-- initial benchmark
-- adaptive daily missions
-- seven-domain skill profile
-- local progress history
-- parent PIN/dashboard
-- ChatGPT-ready progress report
+Adaptive family reading intervention prototype for up to four children in Grades 2–6. Each child has an isolated benchmark, skill model, progress history, XP/streak, interests, learning plan, backups, and parent report.
 
-Important: V1 skill scores are instructional mastery indices, not standardized test scores or diagnoses. Oral reading fluency/WCPM and automated speech scoring require a later version with a validated audio/probe workflow.
+For the primary struggling fourth-grade reader, select **Grade 4** and **Accelerated Intervention** during profile setup.
+
+Important: app mastery indices and browser reading-pace estimates are instructional measures, not standardized scores or diagnoses.
