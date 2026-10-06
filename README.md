@@ -1,7 +1,9 @@
-# Reading Adventure Family V3
+# Reading Adventure Family — Build 3.2
 
-Adaptive family reading intervention prototype for up to four children in Grades 2–6. Each child has an isolated benchmark, skill model, progress history, XP/streak, interests, learning plan, backups, and parent report.
+Hotfix release focused on reliable deployment and mission launch.
 
-For the primary struggling fourth-grade reader, select **Grade 4** and **Accelerated Intervention** during profile setup.
-
-Important: app mastery indices and browser reading-pace estimates are instructional measures, not standardized scores or diagnoses.
+- Keeps V3 family/child data storage so existing profiles remain intact.
+- Fixes the adaptive mission builder defect from V3.
+- Adds versioned asset URLs to prevent Safari/GitHub Pages from reusing an older cached app.js.
+- Displays Build 3.2 at the bottom of every screen so the deployed version can be verified.
+- Adds guarded mission startup with a visible diagnostic instead of a silent failure.
